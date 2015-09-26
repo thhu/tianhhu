@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vlucas/valitron": "dev-master",
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
