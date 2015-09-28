@@ -14,14 +14,14 @@ if($validator->validate()) {
 		//$mail->SMTPDebug = 3;                               // Enable verbose debug output
 		
 		//$mail->isSMTP();                                      // Set mailer to use SMTP
-		$mail->Host = 'mail.tianhhu.com;mail.tianhhu.com';  // Specify main and backup SMTP servers
+		$mail->Host = 'smtp.gmail.com;smtp.gmail.com';  // Specify main and backup SMTP servers
 		$mail->SMTPAuth = true;                               // Enable SMTP authentication
-		$mail->Username = 'hello@tianhhu.com';                 // SMTP username
-		$mail->Password = '_!5%Dp&%6ZzU';                           // SMTP password
+		$mail->Username = 'tian.hu.dev@gmail.com';                 // SMTP username
+		$mail->Password = "'@q4RIr9}@6uC+f";                           // SMTP password
 		$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 		$mail->Port = 465;                                    // TCP port to connect to
 		
-		$mail->From = 'hello@tianhhu.com';
+		$mail->From = 'tian.hu.dev@gmail.com';
 		$mail->FromName = 'webadmin';
 		$mail->addAddress('tianhaohu@gmail.com');     // Add a recipient
 		

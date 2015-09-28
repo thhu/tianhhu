@@ -133,7 +133,7 @@
 									This website was designed to help you get to know me a bit better and to highlight some of the 
 									things that I have worked on over the past couple of months.
 									If you have any feedback for the site or would like to get in touch, feel free to email me at
-									<a href="mailto:hello@tianhhu.com">hello@tianhhu.com</a> or click the contact button below. 
+									<a href="mailto:tian.hu@uwaterloo.ca">tian.hu@uwaterloo.ca</a> or click the contact button below. 
 									<br/>
 									<br/>
 									<div class="visible-lg-block">
@@ -168,6 +168,34 @@
 			<div class="row">
 				<div class="col-xs-6 col-md-3 col-md-offset-1 col-xs-offset-3">
 					<br/>
+					<a href="https://itunes.apple.com/ca/app/freshbooks-cloud-accounting/id542796025?mt=8"><img class="img-responsive" src="img/freshbooks.png"></a>
+				</div>
+				<div class="col-xs-12 col-md-8">
+					<h1 class="no-bottom-margin">Mobile Developer<br/><small>FreshBooks Cloud Accounting</small></h1>
+					January 2015 - April 2015
+					<h3>iOS</h3>
+					<ul>
+						<li>Added new auto layout screens, animations and other UI elements of the workflow</li>
+						<li>Implemented business logic in Objective-C to validate mobile payment eligibility</li>
+						<li>Implemented hardware integration to enable the application to process credit cards</li>
+						<li>Helped design and implement new architecture enabling better code reusability</li>
+						<li>Added A/B testing though MixPanel tweaks and the MixPanel people API</li>
+						<li>Added unit tests using the XCTest and OCMock framework</li>
+						<li>Created screen shot tests using the Facebook screen shot test tool</li>
+						<li>Worked closely with business development and in an agile fast paced environment</li>
+					</ul>
+					<h3>Android</h3>
+					<ul>
+						<li>Created views for a new login page</li>
+						<li>Implemented login workflow utilizing O-Auth tokens</li>
+						<li>Fixed bugs related to currency localization and number input</li>
+						<li>Added unit tests using the Robolectric framework</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-6 col-md-3 col-md-offset-1 col-xs-offset-3">
+					<br/>
 					<a href="https://dabbleit.com/"><img class="img-responsive" src="img/logoshadow.png"></a>
 				</div>
 				<div class="col-xs-12 col-md-8">
@@ -191,7 +219,7 @@
 				</div>
 				<div class="col-xs-12 col-md-8">
 					<h1 class="no-bottom-margin">Web Director <br/><small>Power Unit Youth Organization</small></h1>
-					October 2013 - Present
+					October 2013 - September 2015
 					<ul>
 						<li>Development of new responsive websites to help promote Power Unit's online presence using HTML5 and CSS3</li>
 						<li>Integration of Facebook’s API and Open Graph Tags into a custom Wordpress template to create more effective way 
@@ -346,6 +374,7 @@
 									was created using a custom Wordpress template. Then the customer's information was captured
 									through simple web forms. Finally the checkout process was done through PayPal and their REST API. 
 								</p>
+								<a href="http://bit.ly/niufgd" target="_blank" class="btn btn-default margin-bottom-20">Demo</a>
 							</div>
 						</div>
 					</div>
@@ -373,7 +402,7 @@
 							Feel free to contact me at anytime, by filling out the form or connecting through the various ways
 							listed below: <br/>
 							<ul>
-								<li>Email: <a href="mailto:hello@tianhhu.ca">hello@tianhhu.ca</a></li>
+								<li>Email: <a href="mailto:tian.hu@uwaterloo.ca">tian.hu@uwaterloo.ca</a></li>
 								<li>Phone: (647)-459-8915</li>
 								
 							</ul>
