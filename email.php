@@ -11,10 +11,10 @@ if($validator->validate()) {
 	if($validator->validate()){
 		$mail = new PHPMailer;
 
-		//$mail->SMTPDebug = 3;                               // Enable verbose debug output
+		//$mail->SMTPDebug = 2;                               // Enable verbose debug output
 		
 		//$mail->isSMTP();                                      // Set mailer to use SMTP
-		$mail->Host = 'smtp.gmail.com;smtp.gmail.com';  // Specify main and backup SMTP servers
+		$mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
 		$mail->SMTPAuth = true;                               // Enable SMTP authentication
 		$mail->Username = 'tian.hu.dev@gmail.com';                 // SMTP username
 		$mail->Password = "'@q4RIr9}@6uC+f";                           // SMTP password
@@ -22,7 +22,7 @@ if($validator->validate()) {
 		$mail->Port = 465;                                    // TCP port to connect to
 		
 		$mail->From = 'tian.hu.dev@gmail.com';
-		$mail->FromName = 'webadmin';
+		$mail->FromName = 'Tian Hu';
 		$mail->addAddress('tianhaohu@gmail.com');     // Add a recipient
 		
 		$mail->WordWrap = 50;                                 // Set word wrap to 50 characters
@@ -36,6 +36,7 @@ if($validator->validate()) {
 		if(!$mail->send()) {
 		    //echo 'Message could not be sent.';
 			error_log($mail->ErrorInfo);
+			//echo $mail->ErrorInfo;
 			header("location: index.php?fatal_email_error=1#email_form");
 		} else {
 			header("location: index.php?success=true#email_form");
