@@ -168,6 +168,25 @@
 			<div class="row">
 				<div class="col-xs-6 col-md-3 col-md-offset-1 col-xs-offset-3">
 					<br/>
+					<img class="img-responsive" src="img/amazon.jpg">
+				</div>
+				<div class="col-xs-12 col-md-8">
+					<h1 class="no-bottom-margin">Software Engineer Intern<br/><small>Amazon.com Inc.</small></h1>
+					January 2017 - April 2017
+					<ul>
+						<li>Successfully completed intern project</li>
+						<li>Worked on the Fire TV platform and underlying Android Operating System</li>
+						<li>Gained experience building and debugging AOSP issues</li>
+						<li>Worked on parsing data from various feeds and displaying them</li>
+						<li>Created local unit tests using the JUnit framework</li>
+						<li>Used Mockito and PowerMock to help with unit testing</li>
+						<li>Worked independently and learned how to trouble diagnose and solve problems</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-6 col-md-3 col-md-offset-1 col-xs-offset-3">
+					<br/>
 					<img class="img-responsive" src="img/gm_canada.png">
 				</div>
 				<div class="col-xs-12 col-md-8">
@@ -294,14 +313,44 @@
 		</div>
 		<div class="gap gap-50 background-img-proj"></div>
 		<div class="content" id="done">
-			<div class="row">
-				<div class="col-xs-10 col-xs-offset-1">
-					<h1>Startups I've Founded <small>small teams, fast pace, agile environment</small></h1>
+				<div class="row">
+					<div class="col-xs-10 col-xs-offset-1">
+						<h1>Current Projects</h1>
+					</div>
 				</div>
-			</div>
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-1">
-						<a href="http://minimalagency.com"><img class="img-responsive" src="img/minimal_agency.png"/></a>
+						<img class="img-responsive" src="img/boothr.png"/>
+						<div class="row">
+							<div class="col-xs-10 col-xs-offset-1">
+								<h2>Boothr.io</h2>
+								<p>
+									Boothr is a service which helps event organizers manage their vendors. Each vendor applies to an event which
+									is hosted by an organizer. The vendors simply fill out a form and selects the booth they wish to occupy during the event.
+									The goal of the application is to make it easier for vendors and event organizers to share information with eachother. We
+									are currently working with our first customer to fine tune the application before expanding. For more information, please visit: 
+									<a href="http://boothr.io">http://boothr.io</a> 
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-1">&nbsp;</div>
+					<div class="col-xs-10 col-xs-offset-1 col-md-4">
+						<div class="row">
+							<div class="col-xs-10 col-xs-offset-1">
+								&nbsp;
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-10 col-xs-offset-1">
+						<h1>Past Projects and Startups</h1>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-1">
+						<img class="img-responsive" src="img/minimal_agency.png"/>
 						<div class="row">
 							
 							<div class="col-xs-10 col-xs-offset-1">
@@ -311,14 +360,13 @@
 									Our main goal is to make the web a simpler place for users through minimalistic designs.
 									Even better, we even have customers! We landed our first contract with the Hart House Investment Club
 									during the summer. To find out more, feel free to visit their website at: 
-									<a href="http://minimalagency.com">minimalagency.com</a>.
 								</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-1">&nbsp;</div>
 					<div class="col-xs-10 col-xs-offset-1 col-md-4">
-						<a href="https://dabbleit.com"><img class="img-responsive" src="img/logoshadow.png"/></a>
+						<img class="img-responsive" src="img/logoshadow.png"/>
 						<div class="row">
 							<div class="col-xs-10 col-xs-offset-1">
 								<h2>Innovative Startup</h2>
@@ -328,20 +376,14 @@
 									for online photos by bringing more context to images. Dabble is in the
 									private beta phase, where we hope to gather more user feedback on our service. 
 									To find out more, and to see a demo of our annotated images, please visit: 
-									<a href="https://dabbleit.com">dabbleit.com</a>.
 								</p>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-xs-10 col-xs-offset-1">
-						<h1>Websites I've Built <small>html5, css3, javascript</small></h1>
-					</div>
-				</div>
-				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1 col-md-4 col-md-offset-1">
-						<a href="http://paintathon.com"><img class="img-responsive" src="img/pat_logo.png"/></a>
+						<img class="img-responsive" src="img/pat_logo.png"/>
 						<div class="row">
 							<div class="col-xs-10 col-xs-offset-1">
 								<h2>Painting for Charity</h2>
@@ -352,16 +394,14 @@
 									money for a designated charity. 
 									As the web director of Power Unit, I took on the challenge of building the new the Paint-A-thon website.
 									The goal was to make the website more look more modern, while also moving off of the 
-									outdated Joomla content management system. Paint-A-Thon itself is an event 
-									To check out the website, please visit: 
-									<a href="http://paintathon.com">paintathon.com</a>.								
+									outdated Joomla content management system. Paint-A-Thon itself is an event 								
 								</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-1">&nbsp;</div>
 					<div class="col-xs-10 col-xs-offset-1 col-md-4">
-						<a href="http://e3challenge.com"><img class="img-responsive" src="img/E3_logo_updated.png"/></a>
+						<img class="img-responsive" src="img/E3_logo_updated.png"/>
 						<div class="row">
 							<div class="col-xs-10 col-xs-offset-1">
 								<h2>Summer Business Challenge</h2>
@@ -375,15 +415,9 @@
 									business challenge and make it easier for users to find the correct information. 
 									This was one of the factors that influenced the new one page design. To find out
 									more about the challenge and to check out the website, please visit: 
-									<a href="http://e3challenge.com">e3challenge.com</a>.
 								</p>
 							</div>
 						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-xs-10 col-xs-offset-1">
-						<h1>Web Applications I've Built <small>php, mysql</small></h1>
 					</div>
 				</div>
 				<div class="row">
@@ -400,7 +434,6 @@
 									was created using a custom Wordpress template. Then the customer's information was captured
 									through simple web forms. Finally the checkout process was done through PayPal and their REST API. 
 								</p>
-								<a href="http://bit.ly/niufgd" target="_blank" class="btn btn-default margin-bottom-20">Demo</a>
 							</div>
 						</div>
 					</div>
