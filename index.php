@@ -168,6 +168,32 @@
 			<div class="row">
 				<div class="col-xs-6 col-md-3 col-md-offset-1 col-xs-offset-3">
 					<br/>
+					<img class="img-responsive" src="img/gm_canada.png">
+				</div>
+				<div class="col-xs-12 col-md-8">
+					<h1 class="no-bottom-margin">Mobile Developer<br/><small>General Motors of Canada</small></h1>
+					January 2016 - April 2016
+					<h3>Android</h3>
+					<ul>
+						<li>Rapidly developed native Android applications</li>
+						<li>Designed user interfaces following material design guidelines</li>
+						<li>Worked with Bluetooth Low Energy to connect custom hardware with the android applications</li>
+						<li>Created BLE enabled Arduino device to communicate with the android application</li>
+						<li>Implemented OAuth workflow to access third party SDK</li>
+						<li>Worked at GM’s 2908 innovation hub with business analysts and other start-up companies</li>
+						<li>Participated in weekly demos with team members</li>
+					</ul>
+					<h3>iOS</h3>
+					<ul>
+						<li>Rapidly developed native iOS prototype</li>
+						<li>Integrated simple NoSQL backend with Parse</li>
+						<li>Implemented simple network image fetching</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-6 col-md-3 col-md-offset-1 col-xs-offset-3">
+					<br/>
 					<a href="https://itunes.apple.com/ca/app/freshbooks-cloud-accounting/id542796025?mt=8"><img class="img-responsive" src="img/freshbooks.png"></a>
 				</div>
 				<div class="col-xs-12 col-md-8">
@@ -200,7 +226,7 @@
 				</div>
 				<div class="col-xs-12 col-md-8">
 					<h1 class="no-bottom-margin">Founder - CIO<br/><small>Dabbleit.com</small></h1>
-					August 2014 - Present
+					August 2014 - December 2015
 					<ul>
 						<li>Developed a login, registration and account request system for the private beta using PHP and Javascript.</li>
 						<li>Consulted on business development and operations of the start up company</li>
