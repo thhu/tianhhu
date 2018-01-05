@@ -315,7 +315,7 @@
 		<div class="content" id="done">
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1">
-						<h1>Current Projects<small>html5, css3, javascript</small></h1>
+						<h1>Current Projects</h1>
 					</div>
 				</div>
 				<div class="row">
